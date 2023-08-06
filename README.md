@@ -2,7 +2,7 @@
 
 Your local chaotic trans girl. 
 
-I work with machine learning and Minecraft modding, I usually opt for Rust in my projects. Jack of all trades master of none. The best place to contact me is via my [discord server]() or send me an email at anything@sillyjune.xyz
+I work with machine learning and Minecraft modding, I usually opt for Rust in my projects. Jack of all trades master of none. The best place to contact me is via my [discord server](https://discord.com/invite/Z5ce89vdVt) or send me an email at anything@sillyjune.xyz. I like to draw when not developing something.
 
 Actively working on 2 open source projects;
 
