@@ -4,7 +4,12 @@ Your local chaotic trans girl.
 
 I work with machine learning and Minecraft modding, I usually opt for Rust in my projects. Jack of all trades master of none. The best place to contact me is via my [discord server]() or send me an email at anything@sillyjune.xyz
 
+Actively working on 2 open source projects;
 
+- [Minecraft-Vanilla-Notebook](https://github.com/JunePrimavera/Minecraft-Vanilla-Notebook)
+- [Minecraft-Propulsive](https://github.com/TeamPropulsive/Minecraft-Propulsive)
+
+Alongside another 2 closed source projects.
 
 <br />
 
