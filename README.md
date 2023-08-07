@@ -19,5 +19,5 @@ Alongside another closed source project.
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=JunePrimavera&count_private=true&show_icons=true&theme=midnight-purple)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JunePrimavera&layout=compact&show_icons=true&card_width=470px&card_height=800px&theme=radical#gh-dark-mode-only)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JunePrimavera&layout=compact&show_icons=true&card_width=470px&card_height=800px&theme=midnight-purple)
 
