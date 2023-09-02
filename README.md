@@ -8,7 +8,6 @@ Actively working on 3 open source projects;
 
 
 - [Azalea](https://github.com/JunePrimavera/Azalea)
-- [Aurora](https://github.com/JunePrimavera/Aurora)
 - [Minecraft-Vanilla-Notebook](https://github.com/JunePrimavera/Minecraft-Vanilla-Notebook)
 - [Minecraft-Propulsive](https://github.com/TeamPropulsive/Minecraft-Propulsive)
 
