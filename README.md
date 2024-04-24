@@ -1,4 +1,4 @@
-# Juniper Gardiner
+# Juniper Primavera
 
 Your local chaotic trans girl. 
 
