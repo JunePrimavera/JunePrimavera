@@ -2,17 +2,7 @@
 
 Your local chaotic trans girl. 
 
-I work with machine learning and Minecraft modding, I usually opt for Rust in my projects. Jack of all trades master of none. The best place to contact me is via my [discord server](https://discord.com/invite/Z5ce89vdVt) or send me an email at anything@sillyjune.xyz. I like to draw when not developing something.
-
-Actively working on 3 open source projects;
-
-
-- [Azalea](https://github.com/JunePrimavera/Azalea)
-- [Minecraft-Vanilla-Notebook](https://github.com/JunePrimavera/Minecraft-Vanilla-Notebook)
-- [Minecraft-Propulsive](https://github.com/TeamPropulsive/Minecraft-Propulsive)
-
-  
-Alongside another closed source project.
+I don't use GitHub all that much now - Most of my projects are on [my forgejo instance](https://git.sillyjune.xyz/), anything here which isn't a mirror can be considered outdated.
 
 <br />
 
