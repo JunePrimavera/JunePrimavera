@@ -7,7 +7,7 @@ I am mostly known for my work with [Minecraft modding](https://modrinth.com/user
 
 [Astra API](https://forgejo.sillyjune.xyz/juniper/astra-api) - A machine learning API written in Rust, C and a bit of C++, with GPU accelleration support.
 
-[Minecraft Vanilla Notebook](https://github.com/JunePrimavera/Minecraft-Vanilla-Notebook) - A Minecraft modding project adding a small notebook to the pause menu
+[Minecraft Vanilla Notebook](https://github.com/JunePrimavera/Minecraft-Vanilla-Notebook) - A small Minecraft modding project adding a notebook to the pause menu.
 
 ## Contact
 
