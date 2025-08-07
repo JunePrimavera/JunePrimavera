@@ -13,6 +13,8 @@ I am mostly known for my work with [Minecraft modding](https://modrinth.com/user
 
 Alongside these, i've been working on many smaller projects - I'm also the lead developer for an upcoming game.
 
+[![Juniper's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JunePrimavera&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Contact
 
 Email at juniper.gardiner@gmail.com or anything@sillyjune.xyz
