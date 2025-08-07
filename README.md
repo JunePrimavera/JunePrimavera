@@ -9,6 +9,8 @@ I am mostly known for my work with [Minecraft modding](https://modrinth.com/user
 
 [Minecraft Vanilla Notebook](https://github.com/JunePrimavera/Minecraft-Vanilla-Notebook) - A small Minecraft modding project adding a notebook to the pause menu.
 
+[Minecraft Ecological](https://github.com/JunePrimavera/Minecraft-Ecological) - A small Minecraft modding project adding a bunch of small features to make the world grow and change over time.
+
 ## Contact
 
 Email at juniper.gardiner@gmail.com or anything@sillyjune.xyz
