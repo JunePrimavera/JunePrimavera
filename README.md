@@ -7,7 +7,7 @@ I am mostly known for my work with [Minecraft modding](https://modrinth.com/user
 
 > [!IMPORTANT]
 >
-> As of 27/08/2025 all of my repositories have been migrated to my [Forgejo Instance](https://forgejo.sillyjune.xyz/juniper), with most being mirrored on [Git Gay](https://git.gay/juniper). If you're looking for a project, you should look there.
+> As of 27/08/2025 all of my repositories have been migrated to my [Forgejo Instance](https://forgejo.sillyjune.xyz/juniper), with most being mirrored on [tangled.sh](https://tangled.sh/@sillyjune). If you're looking for a project, you should look there.
 >
 > You can read my reasoning [here](https://cdn.sillyjune.xyz/notices/leaving_github.txt)
 
