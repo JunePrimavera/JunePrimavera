@@ -22,6 +22,6 @@ Email at juniper.gardiner@gmail.com or anything@sillyjune.xyz
 
 [Fediverse](https://fedi.sillyjune.xyz/juniper)
 
-[Bluesky](https://bsky.app/profile/juniper-bsky.sillyjune.xyz)
+[Bluesky](https://bsky.app/profile/sillyjune.xyz)
 
 Open to work.
