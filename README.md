@@ -2,7 +2,7 @@
 
 Tech hobbyist & computer toucher. I like to mess with computers! I have a ton of hardware I love to mess with and I develop software.
 
-I am mostly known for my work with [Minecraft modding](https://modrinth.com/user/Juniper) but most of my software development is related to projects I find interesting to work on - Such as simulation, [machine learning](forgejo.sillyjune.xyz/juniper/astra-api) and whatever I am hyperfocusing on at that given time.
+I am mostly known for my work with [Minecraft modding](https://modrinth.com/user/Juniper) but most of my software development is related to projects I find interesting to work on - Such as simulation, [machine learning](forgejo.sillyjune.xyz/juniper/astra-api) (Strictly non-generative; things like image recognition) and whatever I am hyperfocusing on at that given time.
 ## Current Projects
 
 > [!IMPORTANT]
