@@ -7,7 +7,7 @@ I am mostly known for my work with [Minecraft modding](https://modrinth.com/user
 
 All of my projects are on my [Forgejo Instance](https://forgejo.sillyjune.xyz/juniper), with most being mirrored on [tangled.sh](https://tangled.sh/@sillyjune.xyz). 
 
-Due to GitHub pushing AI and their collaboration with Elon Musk, this account is purely used for contributing to projects that haven't migrated away from GitHub yet.
+Due to GitHub pushing AI and their collaboration with Elon Musk/xAI, this account is purely used for contributing to projects that haven't migrated away from GitHub yet.
 
 [![Juniper's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JunePrimavera&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
