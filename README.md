@@ -5,11 +5,9 @@ Tech hobbyist & computer toucher. I like to mess with computers! I have a ton of
 I am mostly known for my work with [Minecraft modding](https://modrinth.com/user/Juniper) but most of my software development is related to projects I find interesting to work on - Such as simulation, [machine learning](forgejo.sillyjune.xyz/juniper/astra-api) (Strictly non-generative; things like image recognition) and whatever I am hyperfocusing on at that given time.
 ## Current Projects
 
-> [!IMPORTANT]
->
-> As of 27/08/2025 all of my repositories have been migrated to my [Forgejo Instance](https://forgejo.sillyjune.xyz/juniper), with most being mirrored on [tangled.sh](https://tangled.sh/@sillyjune.xyz). If you're looking for a project, you should look there.
->
-> You can read my reasoning [here](https://cdn.sillyjune.xyz/notices/leaving_github.txt)
+All of my projects are on my [Forgejo Instance](https://forgejo.sillyjune.xyz/juniper), with most being mirrored on [tangled.sh](https://tangled.sh/@sillyjune.xyz). 
+
+Due to GitHub pushing AI and their collaboration with Elon Musk, this account is purely used for contributing to projects that haven't migrated away from GitHub yet.
 
 [![Juniper's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JunePrimavera&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -19,9 +17,5 @@ I am mostly known for my work with [Minecraft modding](https://modrinth.com/user
 ## Contact
 
 Email at juniper.gardiner@gmail.com or anything@sillyjune.xyz
-
-[Fediverse](https://fedi.sillyjune.xyz/juniper)
-
-[Bluesky](https://bsky.app/profile/sillyjune.xyz)
 
 Open to work.
